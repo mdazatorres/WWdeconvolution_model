@@ -153,7 +153,7 @@ def plot_linear_vs_conv(city, test_set, output_name, workdir, save):
         fig.savefig(workdir + 'figures/'+ city + '_comp_conv_linear_model' + '.png')
 
 
-#comparison_conv_Tsets(city, output_name_1=None, output_name_2=None, workdir=workdir, save=False)
+comparison_conv_Tsets(city, output_name_1=None, output_name_2=None, workdir=workdir, save=False)
 #comparison_conv_Tsets(city, output_name=None, workdir=workdir,save=False)
 #comparison_conv_linear(city, save=True)
 #plot_linear_vs_conv(city=city, test_set=0, output_name=None, workdir=workdir, save=True)
