@@ -6,9 +6,14 @@ This module consists in the following files:
 
 #### Data
 data_ww_cases.csv
-Testing_case_HYT.xlsx
+Testing_case_HYT.xls
 
 #### Codes
+
+### Example_Estimation of COVID-19 incidence from ww data.ipynb
+
+Notebook tutorial to estimate COVID-19 incidence from ww data
+
 #### run_mcmc.py
 Main code:
 - Set all the parameters for the models
